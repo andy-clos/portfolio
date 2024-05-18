@@ -11,9 +11,10 @@ export const ProjectCard = ({
       <img src = {imageSrc} alt = {title} />
       <h3 className = {styles.title}>{title}</h3>
       <p className = {styles.description}>{description}</p>
+      
       {isExpanded && (
         <>
-          <ul className={styles.skills}> 
+          <ul className={styles.skills}>
             {skills.map((skill, id) => (
               <li key={id} className={styles.skill}>
                 {skill}
@@ -21,13 +22,12 @@ export const ProjectCard = ({
             ))}
           </ul>
 
-          <div className={styles.link}>
+          <div className={styles.links}>
             <a href={demo} className={styles.link}>Demo</a>
             <a href={source} className={styles.link}>Source</a>
           </div>
         </>
       )}
-
 
       <button className = {styles.button} onClick={() => setIsExpanded(!isExpanded)}>
         {isExpanded ? "Show Less" : "Show More"}
