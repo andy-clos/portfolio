@@ -1,10 +1,10 @@
 import React from "react";
 
 import styles from "./Contact.module.css";
-import email from "../../../assets/contact/emailIcon.png";
-import linkedin from "../../../assets/contact/linkedinIcon.png";
-import github from "../../../assets/contact/githubIcon.png";
-import { getImageUrl } from "../../utils";
+import email from "../../assets/contact/emailIcon.png";
+import linkedin from "../../assets/contact/linkedinIcon.png";
+import github from "../../assets/contact/githubIcon.png";
+// import { getImageUrl } from "../../utils";
 
 export const Contact = () => {
   return (

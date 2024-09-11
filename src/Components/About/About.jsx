@@ -1,10 +1,10 @@
 import React from "react";
 
 import styles from "./About.module.css";
-import profile2 from "../../../assets/about/profile2.png";
-import cursorIcon from "../../../assets/about/cursorIcon.png";
-import serverIcon from "../../../assets/about/serverIcon.png";
-import uiIcon from "../../../assets/about/uiIcon.png";
+import profile2 from "../../assets/about/profile2.png";
+import cursorIcon from "../../assets/about/cursorIcon.png";
+import serverIcon from "../../assets/about/serverIcon.png";
+import uiIcon from "../../assets/about/uiIcon.png";
 
 export const About = () => {
   return (
