@@ -6,12 +6,12 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, there! I am Andyclos! 👨🏻‍💻</h1>
+        <h1 className={styles.title}>Hi, there!</h1>
+        <h1 className={styles.title}>I am Andyclos!</h1>
         <p className={styles.description}>
-          I am Year 2 Computer Science Student at Universiti Sains
-          Malaysia!Welcome to my portfolio! I hope you enjoy it!
+          A passionate Computer Science student.
         </p>
-        <a href="mailto:lim" className={styles.contactBtn}>
+        <a href="mailto:andyclos1025@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>

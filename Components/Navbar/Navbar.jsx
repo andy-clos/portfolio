@@ -17,7 +17,7 @@ export const Navbar = () => {
   };
 
   return (
-    <nav className={styles.navbar}>
+    <nav id="navbar" className={styles.navbar}>
       <a className={styles.title} href="https://andy-clos.github.io/portfolio/">
         Portfolio
       </a>
