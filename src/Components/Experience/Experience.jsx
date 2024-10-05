@@ -6,10 +6,7 @@ import history from "../../data/history.json";
 import skill1image from "../../assets/skills/html.png";
 import skill2image from "../../assets/skills/css.png";
 import skill3image from "../../assets/skills/react.png";
-import skill4image from "../../assets/skills/node.png";
-import skill5image from "../../assets/skills/graphql.png";
-import skill6image from "../../assets/skills/mongodb.png";
-import skill7image from "../../assets/skills/figma.png";
+import skill4image from "../../assets/skills/figma.png";
 import history1image from "../../assets/history/vitrox.png";
 import history2image from "../../assets/history/css.png";
 
@@ -18,10 +15,7 @@ export const Experience = () => {
     'html.png': skill1image,
     'css.png': skill2image,
     'react.png': skill3image,
-    'node.png': skill4image,
-    'graphql.png': skill5image,
-    'mongodb.png': skill6image,
-    'figma.png': skill7image
+    'figma.png': skill4image
   };
 
   const historyImages = {

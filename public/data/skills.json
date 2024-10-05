@@ -12,18 +12,6 @@
     "imageSrc": "react.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "node.png"
-  },
-  {
-    "title": "GraphQL",
-    "imageSrc": "graphql.png"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "mongodb.png"
-  },
-  {
     "title": "Figma",
     "imageSrc": "figma.png"
   }
