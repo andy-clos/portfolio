@@ -10,9 +10,8 @@ import skill4image from "../../assets/skills/node.png";
 import skill5image from "../../assets/skills/graphql.png";
 import skill6image from "../../assets/skills/mongodb.png";
 import skill7image from "../../assets/skills/figma.png";
-import history1image from "../../assets/history/hilti.png";
-import history2image from "../../assets/history/mlsa.png";
-import history3image from "../../assets/history/telebort.png";
+import history1image from "../../assets/history/vitrox.png";
+import history2image from "../../assets/history/css.png";
 
 export const Experience = () => {
   const skillImages = {
@@ -26,9 +25,8 @@ export const Experience = () => {
   };
 
   const historyImages = {
-    'hilti.png': history1image,
-    'mlsa.png': history2image,
-    'telebort.png': history3image
+    'vitrox.png': history1image,
+    'css.png': history2image,
   };
   return (
     <section className={styles.container} id="experience">

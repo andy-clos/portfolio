@@ -1,29 +1,29 @@
 [
   {
-    "role": "System Tester",
-    "organisation": "Hilti",
-    "startDate": "March, 2024",
-    "endDate": "Present",
-    "experiences": ["Identify Bugs and report it", "Improved user experiece"],
-    "imageSrc": "hilti.png"
+    "role": "Industrial Trainee",
+    "organisation": "ViTrox Corporation Berhad",
+    "startDate": "Oct, 2022",
+    "endDate": "March, 2023",
+    "experiences": ["Train and deploy various AI model for industrial board inspection", "Prepare documentations test plan for software and AI testing"],
+    "imageSrc": "vitrox.png"
   },
   {
-    "role": "Microsoft Learn Student Ambassador",
-    "organisation": "Mirosoft",
-    "startDate": "January, 2024",
-    "endDate": "Present",
-    "experiences": ["Promote Microsoft Technologies", "Organise Workshops and events"],
-    "imageSrc": "mlsa.png"
+    "role": "R&D Technician",
+    "organisation": "ViTrox Corporation Berhad",
+    "startDate": "March, 2023",
+    "endDate": "Sept, 2023",
+    "experiences": ["Train and deploy various AI model for industrial board inspection", "Prepare documentations test plan for software and AI testing"],
+    "imageSrc": "vitrox.png"
   },
   {
-    "role": "Telebort Intern",
-    "organisation": "Telebort",
-    "startDate": "Sept, 2023",
-    "endDate": "Dec, 2023",
+    "role": "Exco of Technical Department",
+    "organisation": "Computer Science Society USM",
+    "startDate": "Oct, 2023",
+    "endDate": "Sept, 2024",
     "experiences": [
-      "Facilitated Coding classes",
-      "Helped in developing of new programs"
+      "Involved in maintaining, developing and testing of the society's event websites",
+      "Involved as a committee member in USM flagship events such as V HACK 2024 and PIXEL 2024"
     ],
-    "imageSrc": "telebort.png"
+    "imageSrc": "css.png"
   }
 ]
