@@ -4,6 +4,7 @@ logs
 
 # Build files generated from Parcel
 dist
+build
 
 # Dependency directories
 node_modules/
