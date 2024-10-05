@@ -1,8 +1,8 @@
 {
   "homepage": "http://andy-clos.github.io/portfolio",
-  "name": "educator-js-codespace-template",
+  "name": "andyclos-portfolio",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Andyclos's Portfolio",
 
   "scripts": {
     "start": "react-scripts start",
@@ -12,15 +12,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
 
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
-  },
-  "author": "Microsoft",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
   },
   "dependencies": {
     "prop-types": "^15.8.1",
