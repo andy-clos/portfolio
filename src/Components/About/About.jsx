@@ -20,30 +20,27 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={cursorIcon} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Student Developer</h3>
+              <h3>2<sup>nd</sup> Year Computer Science Student</h3>
               <p>
-                Im interesting in learning new technologies and building
-                websites!
+                I am currently pursuing Bachelor of Computer Science at Universiti Sains Malaysia
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={serverIcon} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Y2 Computer Science Student</h3>
+              <h3>Specialization</h3>
               <p>
-                Im interesting in learning new technologies and building
-                websites!
+                I am currently majoring in Intelligent Computing
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={uiIcon} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Interest</h3>
               <p>
-                Im interesting in learning new technologies and building
-                websites!
+                I am interested in web design and development, data science and machine learning
               </p>
             </div>
           </li>
