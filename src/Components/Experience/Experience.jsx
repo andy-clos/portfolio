@@ -25,6 +25,8 @@ import skill19image from "../../assets/skills/oracle.png";
 import skill20image from "../../assets/skills/jira.png";
 import history1image from "../../assets/history/vitrox.png";
 import history2image from "../../assets/history/css.png";
+import history3image from "../../assets/history/puo.png";
+import history4image from "../../assets/history/usm.png";
 
 export const Experience = () => {
   const skillImages = {
@@ -47,12 +49,14 @@ export const Experience = () => {
     'firebase.png': skill17image,
     'mysql.png': skill18image,
     'oracle.png': skill19image,
-    'jira.png': skill20image
+    'jira.png': skill20image,
   };
 
   const historyImages = {
     'vitrox.png': history1image,
     'css.png': history2image,
+    'puo.png': history3image,
+    'usm.png': history4image,
   };
   return (
     <section className={styles.container} id="experience">

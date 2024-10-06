@@ -15,18 +15,20 @@ export const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <img src={email} alt="Email icon" />
+          <img src={email} alt="Email icon" width="30" height="30"/>
           <a href="mailto:andyclos1025@gmail.com">andyclos1025@gmail.com</a>
         </li>
         <li className={styles.link}>
           <img
             src={linkedin}
             alt="LinkedIn icon"
+            width="30" 
+            height="30"
           />
           <a rel="noreferrer" href="https://www.linkedin.com/in/andyclos/" target="_blank">linkedin.com/in/andyclos</a>
         </li>
         <li className={styles.link}>
-          <img src={github} alt="Github icon" />
+          <img src={github} alt="Github icon" width="30" height="30"/>
           <a rel="noreferrer" href="https://github.com/andy-clos" target="_blank">github.com/andy-clos</a>
         </li>
       </ul>

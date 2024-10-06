@@ -1,5 +1,13 @@
 [
   {
+    "role": "Diploma in Information Technology (Digital Technology)",
+    "organisation": "Politeknik Ungku Omar",
+    "startDate": "Aug, 2020",
+    "endDate": "March, 2023",
+    "experiences": ["Specialized in Information Security track", "Learned network security, ethical hacking, embedded IoT etc."],
+    "imageSrc": "puo.png"
+  },
+  {
     "role": "Industrial Trainee",
     "organisation": "ViTrox Corporation Berhad",
     "startDate": "Oct, 2022",
@@ -14,6 +22,14 @@
     "endDate": "Sept, 2023",
     "experiences": ["Train & deploy AI models for industrial board inspection", "Prepare documentations & test plans", "Conduct software & AI testing before deployment"],
     "imageSrc": "vitrox.png"
+  },
+  {
+    "role": "Bachelor of Computer Science (Honours)",
+    "organisation": "Universiti Sains Malaysia",
+    "startDate": "Oct, 2023",
+    "endDate": "Present",
+    "experiences": ["Specialized in Intelligent Computing major", "Learned AI, machine learning, data analytics etc."],
+    "imageSrc": "usm.png"
   },
   {
     "role": "Exco of Technical Department",
