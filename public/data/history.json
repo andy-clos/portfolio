@@ -4,7 +4,7 @@
     "organisation": "ViTrox Corporation Berhad",
     "startDate": "Oct, 2022",
     "endDate": "March, 2023",
-    "experiences": ["Train and deploy AI models for industrial board inspection", "Prepare documentations and test plan for software and AI testing"],
+    "experiences": ["Train & deploy AI models for industrial board inspection", "Prepare documentations & test plans", "Conduct software & AI testing before deployment"],
     "imageSrc": "vitrox.png"
   },
   {
@@ -12,7 +12,7 @@
     "organisation": "ViTrox Corporation Berhad",
     "startDate": "March, 2023",
     "endDate": "Sept, 2023",
-    "experiences": ["Train and deploy AI models for industrial board inspection", "Prepare documentations and test plan for software and AI testing"],
+    "experiences": ["Train & deploy AI models for industrial board inspection", "Prepare documentations & test plans", "Conduct software & AI testing before deployment"],
     "imageSrc": "vitrox.png"
   },
   {
@@ -21,8 +21,8 @@
     "startDate": "Oct, 2023",
     "endDate": "Oct, 2024",
     "experiences": [
-      "Maintaining, developing and testing of the society's event websites",
-      "A committee member in USM flagship events such as V HACK 2024 and PIXEL 2024"
+      "Maintain, develop and test the society's event websites",
+      "Committee member in various CS USM flagship events"
     ],
     "imageSrc": "css.png"
   }

@@ -1,5 +1,13 @@
 [
   {
+    "title": "React",
+    "imageSrc": "react.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "bootstrap.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "html.png"
   },
@@ -8,11 +16,67 @@
     "imageSrc": "css.png"
   },
   {
-    "title": "React",
-    "imageSrc": "react.png"
+    "title": "VS Code",
+    "imageSrc": "vscode.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "github.png"
   },
   {
     "title": "Figma",
     "imageSrc": "figma.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "tailwindcss.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "git.png"
+  },
+  {
+    "title": "GitLab",
+    "imageSrc": "gitlab.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "python.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "cpp.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "java.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "javascript.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "typescript.png"
+  },
+  {
+    "title": "Anaconda",
+    "imageSrc": "anaconda.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "firebase.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "mysql.png"
+  },
+  {
+    "title": "Oracle SQL",
+    "imageSrc": "oracle.png"
+  },
+  {
+    "title": "Jira",
+    "imageSrc": "jira.png"
   }
 ]
