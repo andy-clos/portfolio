@@ -23,7 +23,7 @@ export const Contact = () => {
             src={linkedin}
             alt="LinkedIn icon"
           />
-          <a rel="noreferrer" href="https://www.linkedin.com/in/andyclos/" target="_blank">linkedin.com/andyclos</a>
+          <a rel="noreferrer" href="https://www.linkedin.com/in/andyclos/" target="_blank">linkedin.com/in/andyclos</a>
         </li>
         <li className={styles.link}>
           <img src={github} alt="Github icon" />
