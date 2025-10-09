@@ -20,7 +20,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={cursorIcon} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>2<sup>nd</sup> Year Computer Science Student</h3>
+              <h3>Final Year Computer Science Student</h3>
               <p>
                 I am currently pursuing Bachelor of Computer Science at Universiti Sains Malaysia
               </p>
