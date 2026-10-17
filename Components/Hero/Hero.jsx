@@ -9,7 +9,7 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi, there!</h1>
         <h1 className={styles.title}>I am Andyclos!</h1>
         <p className={styles.description}>
-          R&D Engineer at ViTrox Corporation Berhad.
+          A passionate Computer Science student.
         </p>
         <a href="#contact" className={styles.contactBtn}>
           Contact Me
